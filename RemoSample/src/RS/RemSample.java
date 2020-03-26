@@ -13,7 +13,7 @@ public class RemSample {
 		System.out.println("practice for conflict.");
 		
 		
-		
+		System.out.println("practice for conflict.");
 	}
 
 }
