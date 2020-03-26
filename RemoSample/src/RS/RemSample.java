@@ -9,6 +9,7 @@ public class RemSample {
 		
 		System.out.println("SourceTree");
 		System.out.println("変更が受理されない。");
+		System.out.println("pullしても変更が反映されない。");
 	}
 
 }
