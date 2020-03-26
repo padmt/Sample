@@ -11,7 +11,7 @@ public class RemSample {
 		System.out.println("edit second by second pc.");
 		System.out.println("edit second by first pc.");
 		System.out.println("practice for conflict.");
-		
+		System.out.println("practice for conflict.");
 		
 		System.out.println("practice for conflict.");
 	}
