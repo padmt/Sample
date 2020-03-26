@@ -7,6 +7,7 @@ public class RemSample {
 
 		System.out.println("HelloWorld");
 		System.out.println("edit first by second pc.");
+		System.out.println("edit first by first pc.");
 	}
 
 }
