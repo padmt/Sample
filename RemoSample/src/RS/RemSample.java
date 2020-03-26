@@ -7,7 +7,7 @@ public class RemSample {
 		System.out.println("practice for conflict.");
 		System.out.println("print");
 		
-		System.out.println("print");
+		System.out.println("SourceTree");
 	}
 
 }
